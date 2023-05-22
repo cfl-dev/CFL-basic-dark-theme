@@ -1,0 +1,46 @@
+{
+  "name": "Basic Light",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "grey-cup": "assets/grey-cup.jpg",
+    "logo-atlantic": "assets/logo-atlantic.svg",
+    "logo-league-fr": "assets/logo-league-fr.svg"
+  },
+  "color_schemes": {
+    "Light basic2": {
+      "primary": "000000",
+      "secondary": "ffffff",
+      "tertiary": "b5262f",
+      "quaternary": "92454a",
+      "header_background": "222222",
+      "header_primary": "e8e8e8",
+      "highlight": "ffe74d",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d",
+      "hover": "e8c9c9",
+      "selected": "fdd3d3"
+    },
+    "Light - Customized": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "b5262f",
+      "quaternary": "b5262f",
+      "header_background": "222222",
+      "header_primary": "ffffff",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
