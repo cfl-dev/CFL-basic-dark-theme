@@ -8,7 +8,7 @@
          "logo-league-fr": "assets/logo-league-fr.svg"
    },
    "color_schemes": {
-       "Light Dark Colors": {
+       "Dark Basic Colors": {
        "primary": "eeeeee",
        "secondary": "222222",
        "tertiary": "bf1d27",
